@@ -2097,6 +2097,36 @@ li.subitem1 p {
 }
 /*-- //terms-page --*/
 /*-- about page --*/
+
+.ourstory{
+    padding: 30px 20px;
+    margin-bottom: 14px;
+    text-align: center;
+
+}
+.box{
+    font-style: italic;
+    max-width: 800px;
+    text-align: center;
+}
+.yellow-box{
+        border: solid;
+    border-color: yellow;
+    max-width: 800px;
+    border-width: 8px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 400;
+    padding: 20px 30px 75px 30px;
+    margin-bottom: 70px;
+    margin-top: 30px;
+
+}
+
+
+
+
+
 /*-- welcome --*/
 .welcome-img {
     overflow: hidden;
