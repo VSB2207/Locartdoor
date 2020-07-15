@@ -95,6 +95,26 @@ label{
 }
 /*-- //shop locator --*/
 /*-- //Header Lists --*/
+/*-- /businessbox --*/
+
+.businessbox{
+     border-bottom: 3px solid;
+    border-left: 3px solid;
+    border-right: 3px solid;
+    padding-bottom: 80px;
+    padding-top: 30px;
+    margin-left: 70px;
+    border-color:#D3D3D3;
+    box-shadow: 3px 5px #D3D3D3;
+    
+        
+
+}
+
+
+
+/*-- //businessbox --*/
+
 /*-- search --*/
 .agileits_search {
     margin-top: 16px;
@@ -3846,6 +3866,7 @@ input[type="radio"], input[type="checkbox"] {
     }
     .product-men {
         margin-top: 1.5em;
+        margin-bottom: 1.5em;
         float: none;
         width: 100%;
     }
@@ -4901,3 +4922,77 @@ input[type="radio"], input[type="checkbox"] {
 }
 
 /*--//responsive--*/
+
+.send{
+    
+   background-color: white;
+    margin-top: 30px;
+ padding-top: 50px;
+ padding-bottom: 50px;
+ padding-left: 100px;
+
+
+
+height: auto;
+
+     
+    
+ 
+ 
+
+}
+.order{
+    
+    padding-left: 10px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    background-color: #ffffff;
+    padding-top: 40px;
+}
+
+
+
+.text{
+    font-family: "Times New Roman", Times, serif;
+    font-style: oblique;
+}
+
+
+.group{
+
+background-color:whitesmoke;
+margin-right: 20px; 
+padding:  20px;
+
+overflow: hidden;
+height: auto;
+
+margin-left: 12px;
+
+
+
+
+
+
+
+}
+
+.head{
+    text-decoration: overline;
+}
+
+.submit{
+    padding-bottom: 40px;
+}
+
+.image{
+    width: 100%;
+    height: auto;
+}
+
+
+ 
+}
+
+
+
